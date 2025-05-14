@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Inception",
+    "description": "A mind-bending science fiction film directed by Christopher Nolan.",
+    "specifications": {
+      "year": 2010,
+      "director": "Christopher Nolan",
+      "genre": "Science Fiction"
+    },
+    "tags": ["dream", "sci-fi", "blockbuster"]
+  },
+  {
+    "name": "The Shawshank Redemption",
+    "description": "A powerful story of hope and friendship set in a prison.",
+    "specifications": {
+      "year": 1994,
+      "director": "Frank Darabont",
+      "genre": "Drama"
+    },
+    "tags": ["prison", "hope", "friendship"]
+  },
+  {
+    "name": "Spirited Away",
+    "description": "An animated fantasy film by Studio Ghibli about a girl in a magical world.",
+    "specifications": {
+      "year": 2001,
+      "director": "Hayao Miyazaki",
+      "genre": "Fantasy"
+    },
+    "tags": ["anime", "fantasy", "adventure"]
+  }
+]
