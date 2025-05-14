@@ -1,6 +1,6 @@
 import requests
 
-url = "https://CKone20.github.io/Instruments/Instruments.json"
+url = "https://github.com/CKone20/Instruments/blob/main/Instruments.json"
 
 try:
     response = requests.get(url)
